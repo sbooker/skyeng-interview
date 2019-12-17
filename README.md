@@ -8,4 +8,4 @@
 
 Проведите максимально подробный Code Review (https://github.com/sbooker/skyeng-interview/commit/519de9fa97b63b7c141319c76cc69395720d7791?diff=unified). Необходимо написать,
 с чем вы не согласны и почему.
-Исправьте обозначенные ошибки, предоставив свой вариант кода.
+Исправьте обозначенные ошибки, предоставив свой вариант кода. (ветка develop, пулл-реквест: https://github.com/sbooker/skyeng-interview/pull/1/files)
