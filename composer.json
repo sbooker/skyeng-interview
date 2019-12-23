@@ -3,10 +3,11 @@
   "license": "proprietary",
   "autoload": {
     "psr-4": {
-      "src\\": "src/"
+      "\\": "src/"
     }
   },
   "require": {
+    "php": "^7.3",
     "psr/log": "1.1.*",
     "psr/cache": "1.0.*"
   }
